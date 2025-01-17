@@ -16,9 +16,9 @@ To run this notebook, ensure the following tools and libraries are installed:
 pip install -r requirements.txt  
 
 # Usage
-- 1. Clone this repository or download the notebook file.
-- 2. Open the notebook using Jupyter Notebook, Jupyter Lab, or Google Colab.
-- 3. Run the cells step-by-step to follow the analysis.
+1. Clone this repository or download the notebook file.
+2. Open the notebook using Jupyter Notebook, Jupyter Lab, or Google Colab.
+3. Run the cells step-by-step to follow the analysis.
 
 # Analysis Highlights
 - Visualized key variables like passenger class, age, and gender.
