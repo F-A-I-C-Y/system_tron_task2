@@ -12,19 +12,18 @@ To run this notebook, ensure the following tools and libraries are installed:
 - Python (version X.X)
 -  Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, etc.
 
-#Install the dependencies using:
+# Install the dependencies using:
 pip install -r requirements.txt  
 
-#Usage
-Clone this repository or download the notebook file.
-Open the notebook using Jupyter Notebook, Jupyter Lab, or Google Colab.
-Run the cells step-by-step to follow the analysis.
-Dataset
-The Titanic dataset is sourced from Kaggle. Make sure to download the dataset and place it in the appropriate directory if required.
+# Usage
+- 1. Clone this repository or download the notebook file.
+- 2. Open the notebook using Jupyter Notebook, Jupyter Lab, or Google Colab.
+- 3. Run the cells step-by-step to follow the analysis.
 
-Analysis Highlights
-Visualized key variables like passenger class, age, and gender.
-Explored survival rates across various demographics.
-Built machine learning models, such as logistic regression and decision trees, to predict survival.
-Results
+# Analysis Highlights
+- Visualized key variables like passenger class, age, and gender.
+- Explored survival rates across various demographics.
+- Built machine learning models, such as logistic regression and decision trees, to predict survival.
+
+# Results
 The notebook achieves a prediction accuracy of XX% using [best model].
